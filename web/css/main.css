@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Jan, 2017, 6:32:06 PM
+    Author     : daffodil
+*/
+
+.category-height {
+    
+    height:200px;
+    
+    
+}
+
+.posts{
+    margin-top: 50px;
+    
+}
+.author-info{
+    color: grey;
+        font-style: italic;
+        padding-left: 10px;
+
+    
+    
+}
+
+.post:hover{
+    background: #E0E0E0; /* make this whatever you want */
+    padding: 15px;  
+}
+
+.post{
+    
+    padding: 15px;  
+
+    
+}
+.title{
+   padding-left: 0px;
+    
+    
+}
+.tags{
+    padding-top: 10px;
+    
+}
+
+
+
+
+.post, content{
+
+width: 70%;    
+    
+    
+    
+}
+
+.options{
+padding-top: 10px;    
+    
+    
+    
+}
+
+.img-categpry{
+    
+    position: relative;
+    margin-bottom: 20px;
+    -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.img-categpry:hover{
+      background: #E0E0E0;
+  -webkit-filter: grayscale(100%);
+
+}
+
+.img-categpry-txt{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    top: 90px;
+    color: white;
+    font-size:20px;
+        font-weight: bold;
+
+}
+
+
+
